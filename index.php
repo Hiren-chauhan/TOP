@@ -7,10 +7,10 @@ Company:Selft Study Project
 -->
 
 <!-- Header link Set -->
-<?php include 'include-header.php'; ?>
+<?php include './partial/include-header.php'; ?>
 
 <!-- Navigation bad set -->
-<?php include 'header.php'; ?>
+<?php include './partial/header.php'; ?>
 
 <!-- Main content -->
 <mian>
@@ -31,6 +31,6 @@ Company:Selft Study Project
 </main>
 
 <!-- Footer set here -->
-<?php include 'footer.php'; ?>
+<?php include './partial/footer.php'; ?>
 <!-- Footer link set -->
-<?php include 'include-footer.php'; ?>
+<?php include './partial/include-footer.php'; ?>
